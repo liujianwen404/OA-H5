@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/login/forget",
+    "pages/login/register",
+    "pages/index/index",
+    "pages/sign/sign",
+    "pages/rule/rule"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom"
+  },
+  "networkTimeout": {
+    "request": 60000
+  },
+  "usingComponents": {}
+}

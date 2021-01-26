@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "考勤规则",
+  "usingComponents": {
+    "uni-collapse": "/components/uni-collapse/uni-collapse",
+    "uni-collapse-item": "/components/uni-collapse-item/uni-collapse-item"
+  }
+}

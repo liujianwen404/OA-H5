@@ -1,0 +1,10 @@
+
+.sign-title{display: -webkit-box;display: -webkit-flex;display: flex;-webkit-box-pack: justify;-webkit-justify-content: space-between;justify-content: space-between; padding: 30rpx 24rpx;border-bottom: 1rpx solid #333;}
+.sign-title .portrait{width: 100rpx;height: 100rpx;line-height: 100rpx;border-radius: 50%;background-color: #007AFF;color: #fff;font-size: 28rpx;text-align: center;}
+.sign-title .sign-title-l{display: -webkit-box;display: -webkit-flex;display: flex;}
+.sign-title .sign-title-l .text{margin-left: 20rpx;}
+.sign-title .sign-title-l .text .name{font-size: 32rpx;}
+.sign-title .sign-title-l .text  .gz{color: #111;}
+.con-t{font-weight: bold;color:#000;}
+.con-c{color:#555;}
+

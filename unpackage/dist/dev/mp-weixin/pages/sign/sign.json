@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "考勤打卡",
+  "usingComponents": {
+    "sunui-upimg": "/components/sunui-upimg/sunui-upimg"
+  }
+}

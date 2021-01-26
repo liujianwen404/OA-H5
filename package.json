@@ -1,0 +1,25 @@
+{
+  "name": "oa-app",
+  "version": "1.0.0",
+  "description": "* 1.打卡时，要选择第一个位置，作为当前位置；（开发人员，可以使用第三方js插件，直接设置当前位置；也可以将当前经纬度保存比对）\r * 2.不考虑特殊情况。（没有开启位置信息服务，恶意打卡）\r * 3.只做了基座测试。\r ###后续：\r * 1.部分功能实现了，可能不尽人意。\r * 2.如果你有更好的实现方式，希望和我交流。\r * wx:bb_c_e_f",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liujianwen404/OA-APP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liujianwen404/OA-APP/issues"
+  },
+  "homepage": "https://github.com/liujianwen404/OA-APP#readme",
+  "dependencies": {
+    "dingtalk-jsapi": "^2.11.15",
+    "vconsole": "^3.3.4",
+    "vue-jsonp": "^0.1.8"
+  }
+}
